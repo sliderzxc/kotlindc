@@ -23,6 +23,7 @@ out/
 .project
 .settings
 .springBeans
+.env
 .sts4-cache
 bin/
 !**/src/main/**/bin/
